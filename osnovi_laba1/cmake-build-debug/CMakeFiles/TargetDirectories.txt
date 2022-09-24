@@ -1,0 +1,3 @@
+/Users/ykk/Documents/itmo/osnovi/osnovi_laba1/cmake-build-debug/CMakeFiles/osnovi_laba1.dir
+/Users/ykk/Documents/itmo/osnovi/osnovi_laba1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ykk/Documents/itmo/osnovi/osnovi_laba1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
