@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/osnovi_laba2/cmake-build-debug"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_laba2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/osnovi_laba2"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_laba2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -991,7 +991,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/osnovi_laba2/cmake-build-debug"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_laba2/cmake-build-debug"
 		},
 		{
 			"name" : "osnovi_laba2_IS_TOP_LEVEL",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/osnovi_laba2"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_laba2"
 		}
 	],
 	"kind" : "cache",
