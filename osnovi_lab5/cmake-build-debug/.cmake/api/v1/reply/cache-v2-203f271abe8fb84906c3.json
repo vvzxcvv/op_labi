@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab3/cmake-build-debug"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab5/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -419,7 +419,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab3"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab5"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -699,7 +699,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "osnovi_lab3"
+			"value" : "osnovi_lab5"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -982,7 +982,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "osnovi_lab3_BINARY_DIR",
+			"name" : "osnovi_lab5_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -991,10 +991,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab3/cmake-build-debug"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab5/cmake-build-debug"
 		},
 		{
-			"name" : "osnovi_lab3_IS_TOP_LEVEL",
+			"name" : "osnovi_lab5_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1006,7 +1006,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "osnovi_lab3_SOURCE_DIR",
+			"name" : "osnovi_lab5_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab3"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/osnovi_lab5"
 		}
 	],
 	"kind" : "cache",
