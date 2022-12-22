@@ -9,8 +9,6 @@ int main() {
         result *= i;
     }
     printf("%d! = %d\n", n, result);
-
-    // make a pause of 100 seconds
     sleep(100);
     return 0;
 }
