@@ -2,26 +2,27 @@
 #include <string>
 #include "TextFile.h"
 
+using namespace std;
 int main() {
-    std::string filename;
-    std::cout << "filename: ";
-    std::cin >> filename;
+    string filename;
+    cout << "filename: ";
+    cin >> filename;
 
     TextFile file(filename);
     if (!file.isOpen()) {
-        std::cout << "error" << std::endl;
+        cout << "error" << std::endl;
         return 1;
     }
 
-    std::cout << "file: " << file.getFilename() << std::endl;
+    cout << "file: " << file.getFilename() << std::endl;
 
-    std::string line;
+    string line;
     while (file.getNextLine(line)) {
-        std::cout << line << std::endl;
+        cout << line << std::endl;
 
-        std::string word;
+        string word;
         while (file.getNextWord(word)) {
-            std::cout << word << std::endl;
+            cout << word << std::endl;
         }
     }
 

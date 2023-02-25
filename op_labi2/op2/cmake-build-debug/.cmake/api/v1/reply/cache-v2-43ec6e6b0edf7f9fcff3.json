@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2/op2/cmake-build-debug"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2/op2"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2/op2/cmake-build-debug"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2/cmake-build-debug"
 		},
 		{
 			"name" : "op2_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2/op2"
+			"value" : "/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op2"
 		}
 	],
 	"kind" : "cache",
