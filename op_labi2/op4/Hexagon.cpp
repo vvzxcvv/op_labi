@@ -35,11 +35,11 @@ bool Hexagon::operator<(const IPhysObject& ob) const {
 }
 
 void Hexagon::draw() {
-    std::cout << "Drawing a hexagon with side length " << side_a << std::endl;
+    std::cout << "draw " << side_a << std::endl;
 }
 
 void Hexagon::initFromDialog() {
-    std::cout << "Enter side length: ";
+    std::cout << "side length: ";
     std::cin >> side_a;
 }
 

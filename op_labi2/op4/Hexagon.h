@@ -4,6 +4,7 @@
 #include "iprintable.h"
 #include "iphysobject.h"
 #include "IDialogInitiable.h"
+#include "CVector2D"
 #include <iostream>
 
 class Hexagon : public IGeoFig, public IPrintable, public IPhysObject, public IDialogInitiable {
@@ -13,7 +14,7 @@ public:
 
     double square();
     double perimeter();
-    double mass() const; // add const qualifier
+    double mass() const;
     CVector2D position() const;
     bool operator== (const IPhysObject& ob) const;
     bool operator< (const IPhysObject& ob) const;
