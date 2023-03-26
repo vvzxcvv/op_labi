@@ -1,0 +1,3 @@
+/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op4/cmake-build-debug/CMakeFiles/op4.dir
+/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ykk/Documents/itmo/osnovi/op_labi/op_labi2/op4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
